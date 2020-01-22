@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "478178415869",
+    "firebase_url": "https://sample-code-ad3a7.firebaseio.com",
+    "project_id": "sample-code-ad3a7",
+    "storage_bucket": "sample-code-ad3a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478178415869:android:a99577da23662b9fed1a94",
+        "android_client_info": {
+          "package_name": "com.dji.sdk.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478178415869-pd48i0hfqs30mfcv2e9m2vb8a2b7ubc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dji.sdk.sample",
+            "certificate_hash": "b9c5fc97d6f5cff5fa15650a9bc6856ac56fd904"
+          }
+        },
+        {
+          "client_id": "478178415869-q3rntqvqe65nvhvcn1s3ve5pbu049t73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiwLO1gzwmp04hUG_28BMCbZtN2mbiQ6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478178415869-q3rntqvqe65nvhvcn1s3ve5pbu049t73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
